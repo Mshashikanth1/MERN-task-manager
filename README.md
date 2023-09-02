@@ -1,8 +1,5 @@
 # MERN Task Manager
 
-A MERN application for basic tasks management.
-![image](https://user-images.githubusercontent.com/86913048/227101123-f8a35258-9c21-4479-86e8-055659ab75e2.png)
-
 ## Table of Contents
 
 - [Features](#features)
@@ -171,12 +168,6 @@ Inside backend folder:
   - Mongodb docs: https://docs.mongodb.com/manual/introduction/
   - Github docs: https://docs.github.com/en/get-started/quickstart/hello-world
 
-- Youtube tutorials
-
-  - Expressjs: https://youtu.be/L72fhGm1tfE
-  - React: https://youtu.be/EHTWMpD6S_0
-  - Redux: https://youtu.be/1oU_YGhT7ck
-
 - Download links
 
   - Nodejs download: https://nodejs.org/
@@ -189,5 +180,5 @@ Inside backend folder:
 
 ## Contact
 
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Email: shashikanthvarma98@gmail.com
+
